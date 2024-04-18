@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3c2912133fd6d574f81dc713829954dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - exitLoc: {instanceID: 0}
+  - exitBackgroundImageCanvasGroup: {instanceID: 0}
+  - exitAudio: {instanceID: 0}
+  - caughtBackgroundImageCanvasGroup: {instanceID: 0}
+  - caughtAudio: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - clip: {fileID: 8300000, guid: fd8d27d79733ff140bca77dbfed7bcf8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

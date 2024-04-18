@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ffcb4bd792607f4f8200beaa0babb83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - gameEnding: {instanceID: 0}
+  - garLight: {fileID: 2100000, guid: 98a5d7f03b88cef44932b3206c7bd8db, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
